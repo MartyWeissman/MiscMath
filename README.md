@@ -1,0 +1,2 @@
+# MiscMath
+Miscellaneous math explorations
